@@ -1,5 +1,5 @@
 ---
-Title: Reflexions
+Title: Reflexions sur l'industrie
 ---
 Recherches, réflexions et sources d'information tournant autour de :
 * l'industrie musicale,
