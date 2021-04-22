@@ -205,7 +205,9 @@
       if (d3.event) {
         const scale = d3.event.transform;
         zoomLevel = scale.k;
-        g.attr("transform", scale);
+// cpacaud: original line here with "transform" -- removed it to prevent moving graph with mouse
+//      g.attr("transform", scale);
+        g.attr(scale);
       }
 
       const zoomOrKeep = (value) => (zoomLevel >= 1 ? value / zoomLevel : value);
