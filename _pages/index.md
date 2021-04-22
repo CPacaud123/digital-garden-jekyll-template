@@ -17,8 +17,12 @@ Sinon, pour la vraie aventure, OUT, la morose liste de sujets! Voici plutôt la 
 
 {% include notes_graph.html %}
 
+<!-- disable max-width so notes_graph is displayed correctly
+
 <style>
   .wrapper {
     max-width: 46em;
   }
 </style>
+
+!-->

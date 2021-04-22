@@ -28,9 +28,12 @@
   }
 
   #graph-wrapper {
-    background: #151515;
+    background: #202020;
     border-radius: 4px;
+    margin: auto;
     height: auto;
+    width: 80%;
+    overflow-x: hidden;
   }
 </style>
 
@@ -165,7 +168,7 @@
     //
     //element.setAttribute("height", window.innerHeight * 0.8);
     //cpacaud: modified this so label for topmost node doesn't end up truncated
-    element.setAttribute("height", window.innerHeight);
+    element.setAttribute("height", window.innerHeight * 0.8);
     graphWrapper.appendChild(element);
 
     const reportWindowSize = () => {
@@ -205,9 +208,8 @@
       if (d3.event) {
         const scale = d3.event.transform;
         zoomLevel = scale.k;
-// cpacaud: original line here with "transform" -- removed it to prevent moving graph with mouse
-//      g.attr("transform", scale);
-        g.attr(scale);
+// cpacaud: remove "tranform" to prevent moving graph
+        g.attr("transform", scale);
       }
 
       const zoomOrKeep = (value) => (zoomLevel >= 1 ? value / zoomLevel : value);
@@ -288,7 +290,7 @@
 
 //  const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
 //  cpacaud: modified this to "disable" zoom
-    const zoomHandler = d3.zoom().scaleExtent([1, 1]).on("zoom", resize);
+    const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
 
     zoomHandler(svg);
     restart();
