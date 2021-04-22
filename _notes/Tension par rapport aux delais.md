@@ -3,7 +3,7 @@ title: Tension par rapport aux delais
 ---
 C'est une chose que je vis par rapport à l'album à venir de [[Contemplator]]. La musique a été composée entre 2016 et 2019. L'album n'est toujours pas sorti.
 
-Cinq ans plus tard, beaucoup de choses se sont produites dans ma vie et je n'ai plus tout à fait la même perspective sur bien des choses. Je me suis fait des [[Reflexions sur l'industrie|opinions et bâti des convictions sur la direction que prends "l'industrie" de la musique]] (pas un fan du mot industrie).
+Cinq ans plus tard, beaucoup de choses se sont produites dans ma vie et je n'ai plus tout à fait la même perspective sur bien des choses. Je me suis fait des [[Industrie musicale|opinions et bâti des convictions sur la direction que prends "l'industrie" de la musique]] (pas un fan du mot industrie).
 
 Et me voilà maintenant à devoir maintenir de l'enthousiasme et mettre une immense quantité de temps et d'énergie à promouvoir la sortie d'un album sous un format en lequel je crois de moins en moins. 
 
