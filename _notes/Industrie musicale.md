@@ -8,8 +8,10 @@ Ma situation privilégiée rends possible pour moi de créer à ma guise. Je sui
 
 Je souhaite les voir n'avoir à en faire aucun. Je voudrais entendre ce dont ils sont capables, sans contraintes. Je souhaite voir les choses changer dans ce sens.
 
-(Sangoku qui se bat sans les poids à ses pieds!)
+<img src="assets/jl22bu.gif">
 
-[[A propos de Spotify et co.|Quel angle prendre pour tenter de faire bouger la montagne?]] Il faut y aller un caillou à la fois, paraîtrait-il.
+[[Spotify et co.|Quel angle prendre pour tenter de faire bouger la montagne?]] Il faut y aller un caillou à la fois, paraîtrait-il.
  
  [[Plateformes alternatives|Quelle initiative déjà en cours puis-je encourager (par mon action, ma présence, mes ressources)?]]
+ 
+ [[Sources de musique nouvelle|Comment découvrir de nouvelles sources de musique?]]

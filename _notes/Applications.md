@@ -14,3 +14,6 @@ Title: Applications
 
 ### Misc
 [Générateur de sources APA](https://www.scribbr.fr/generateur-apa/) /// Générateur de notices bibliographiques que j'ai utilisé dans ma [[Liste de livres]].
+
+[Coolors Color Picker](https://coolors.co/color-picker)
+>Get useful color information like conversion, combinations, blindness simulation and more.

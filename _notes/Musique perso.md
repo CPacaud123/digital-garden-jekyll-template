@@ -2,6 +2,13 @@
 title: Musique perso
 ---
 
-<iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=2361358403/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="https://christianpacaud.bandcamp.com/track/g-ants-assoupis-sur-les-berges">Géants - Assoupis sur les berges by Christian Pacaud</a></iframe>
+J'ai recommencé à partager de la musique sous mon propre nom vers la fin de 2020. C'est une façon de m'enlever complètement toute frontière de styles, genres, instruementation et d'explorer à ma guise. C'est quelque chose que je faisais naturellement à mes débuts et que j'avais tranquillement mis de côté.
 
-<iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=1482094133/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="https://christianpacaud.bandcamp.com/track/apparoir-vx">Apparoir VX by Christian Pacaud</a></iframe>
+20 mars 2021 <br>
+[[Geants - Assoupis sur les berges]]
+
+5 avril 2021 <br>
+[[Apparoir VX]]
+
+
+
