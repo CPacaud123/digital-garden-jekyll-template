@@ -2,7 +2,7 @@
 title: Anthmeses
 ---
 
-*Embed Bandcamp*
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/track=1656164353/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://christianpacaud.bandcamp.com/track/anthm-ses">Anthmèses by Christian Pacaud</a></iframe>
 
 Cette pièce viens avec une histoire intéressante au niveau de son thème extra-musical.
 
