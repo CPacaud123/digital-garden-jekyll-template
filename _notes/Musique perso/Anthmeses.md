@@ -4,6 +4,14 @@ title: Anthmeses
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/track=1656164353/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://christianpacaud.bandcamp.com/track/anthm-ses">Anthmèses by Christian Pacaud</a></iframe>
 
+Christian Pacaud : musique, mixage, guitare et basse  
+Cameron Wisch : batterie ([cameronwisch.com](https://cameronwisch.com/))  
+Francis Grégoire : claviers ([universeeffects.ca](https://universeeffects.ca/))  
+  
+Photo : Sébastien Fortier ([unsplash.com/photos/AshT365TphA](https://unsplash.com/photos/AshT365TphA))
+
+<hr>
+
 Cette pièce viens avec une histoire intéressante au niveau de son thème extra-musical.
 
 Je me casse la tête depuis longtemps à trouver des thèmes visuels et "narratifs" (via leurs titres) à ma musique, qui est sans paroles. La musique que je créé vient très souvent par elle-même, sans être inspirée par un facteur externe (une photo, une histoire, etc.). Dans la plupart des cas, je prends un instrument et je m'y mets.

@@ -2,6 +2,8 @@
 title: Plateformes alternatives
 ---
 
+*à développer*
+
 ### Plateformes alternatives
 
 [[Resonate]] /// [https://resonate.is/about/](https://resonate.is/about/) <br>
@@ -15,8 +17,8 @@ Plateforme de streaming similaire aux Spotify de ce monde, construite sur la bas
 >
 >Resonate pays artists directly and per-play. For listeners, the overall cost is similar to that of the average monthly streaming subscription.
 
-[Audius](http://audius.co)
+[Audius](http://audius.co) <br>
+Alternative à Soundcloud, mais avec une visée beaucoup plus ambitieuse qui englobe un écosystème de redevances basé sur une nouvelle cryptomonnaie. *À approfondir et développer.*
 
-
-[Ampled](http://www.ampled.com)
-
+[Ampled](http://www.ampled.com) <br>
+Plateforme construite sur la base d'une coopérative, avec une vocation similaire à Patreon. Les membres se rencontrent régulièrement et participent activement à l'évolution de la plateforme. *J'ai plus d'opinion à donner sur le sujet d'Ampled, à venir.*

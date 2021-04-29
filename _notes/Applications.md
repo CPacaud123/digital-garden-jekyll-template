@@ -2,6 +2,8 @@
 Title: Applications
 ---
 
+*Gros ménage à faire ici. C'est quoi mon objectif avec tout ça?*
+
 ### Musique
 [Foobar2000](https://www.foobar2000.org/) /// Lecteur audio
 >foobar2000 is an advanced freeware audio player for the Windows platform.
@@ -17,3 +19,6 @@ Title: Applications
 
 [Coolors Color Picker](https://coolors.co/color-picker)
 >Get useful color information like conversion, combinations, blindness simulation and more.
+
+Rendre son PC anti-chat :
+<img src="assets/FB_IMG_1558186831206.jpg">

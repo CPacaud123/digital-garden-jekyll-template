@@ -2,6 +2,8 @@
 title: Sources d'information
 ---
 
+*à développer*
+
 ### Infolettres
 
 [Penny Fractions](https://www.getrevue.co/profile/pennyfractions) /// By David Turner
