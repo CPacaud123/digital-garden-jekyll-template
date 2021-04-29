@@ -1,5 +1,5 @@
 ---
-Title: Degooglisation
+title: Dégooglisation
 ---
 
 ### Listes:
