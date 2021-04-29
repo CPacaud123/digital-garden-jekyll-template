@@ -1,5 +1,5 @@
 ---
-title: Heteroclite
+title: Hétéroclite
 ---
 
 Le premier mot qui m'est venu à l'esprit quand j'ai décrit un trait que j'admire chez certains artistes. Pourtant, j'ai dû confirmer la signification du mot pour être certain que je n'écrivais pas n'importe quoi. 
