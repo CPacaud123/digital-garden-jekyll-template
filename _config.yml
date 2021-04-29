@@ -14,6 +14,8 @@ use_html_extension:  false
 # set to `false` to open non-internal links in current tab.
 open_external_links_in_new_tab: true
 
+timezone: "America/Toronto"
+
 permalink:           pretty
 relative_permalinks: false
 
