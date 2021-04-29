@@ -17,6 +17,8 @@ open_external_links_in_new_tab: true
 # Set to 'true' to see broken links when generating the site (in the console)
 log_broken_links: true
 
+timezone: "America/Toronto"
+
 permalink:           pretty
 relative_permalinks: false
 
