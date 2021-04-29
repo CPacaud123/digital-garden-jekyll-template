@@ -15,39 +15,34 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
       all_docs.each do |note_potentially_linked_to|
-        title_from_filename = File.basename(
-          note_potentially_linked_to.basename,
-          File.extname(note_potentially_linked_to.basename)
-        ).gsub('_', ' ').gsub('-', ' ').capitalize
-
         new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
         anchor_tag = "<a class='internal-link' href='#{new_href}'>\\1</a>"
 
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
-        current_note.content = current_note.content.gsub(
-          /\[\[#{title_from_filename}\|(.+?)(?=\])\]\]/i,
-          anchor_tag
-        )
-
-        # Replace double-bracketed links with label using note filename
-        # [[cats|this is a link to the note about cats]]
-        current_note.content = current_note.content.gsub(
+        current_note.content.gsub!(
           /\[\[#{note_potentially_linked_to.data['title']}\|(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
         # Replace double-bracketed links using note title
         # [[a note about cats]]
-        current_note.content = current_note.content.gsub(
+        current_note.content.gsub!(
           /\[\[(#{note_potentially_linked_to.data['title']})\]\]/i,
           anchor_tag
         )
 
-        # Replace double-bracketed links using note filename
+        # Replace double-bracketed links with label using note slug
+        # [[cats|this is a link to the note about cats]]
+        current_note.content.gsub!(
+          /\[\[#{note_potentially_linked_to.data['slug']}\|(.+?)(?=\])\]\]/i,
+          anchor_tag
+        )
+
+        # Replace double-bracketed links using note slug
         # [[cats]]
-        current_note.content = current_note.content.gsub(
-          /\[\[(#{title_from_filename})\]\]/i,
+        current_note.content.gsub!(
+          /\[\[(#{note_potentially_linked_to.data['slug']})\]\]/i,
           anchor_tag
         )
       end
