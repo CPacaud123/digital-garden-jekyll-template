@@ -11,6 +11,8 @@ Title: Degooglisation
 [https://photostructure.com/]() /// Google Photos <br>
 [https://swisscows.com/]() /// Google Search <br>
 [https://www.deepl.com/]() /// Google Translate <br>
+[https://www.sync.com/]() // Google Drive <br>
+À noter : Ne faites pas comme moi. J'ai assumé que les fichiers .gsheet / .gdoc et compagnie étaient des copies locales contenant les données des documents. Ce ne sont que des liens vers les données qui sont dans le cloud. Vous devrez les exporter si vous voulez les garder après avoir supprimé votre compte.
 
 ### Plus d'alternatives
 
