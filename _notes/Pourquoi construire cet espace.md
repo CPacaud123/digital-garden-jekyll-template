@@ -2,7 +2,7 @@
 title: Pourquoi construire cet espace
 ---
 
-Je suis tombé plus tôt cette semaine via la communauté de [Resonate](http://resonate.is) (une [[Industrie musicale|plateforme alternative de streaming]], dont le forum est une source constante de sujets à approfondir!) sur le phénomène des [[Digital gardens|digital gardens]], ce qui m'a mené à lire sur le knowledge management (Gestion des connaissance) et plus précisément sur les [[Bienfaits de l'ecriture|bienfaits de l'écriture]] pour ordonner ses pensées.
+Je suis tombé plus tôt cette semaine via la communauté de [Resonate](http://resonate.is) (une [[Industrie musicale|plateforme alternative de streaming]], dont le forum est une source constante de sujets à approfondir!) sur le phénomène des [[Digital gardens|digital gardens]], ce qui m'a mené à lire sur le knowledge management (Gestion des connaissance) et plus précisément sur les [[Bienfaits de l'écriture|bienfaits de l'écriture]] pour ordonner ses pensées.
 
 C'est donc en réaction à ces lectures que je tente cette expérience dans l'espoir que ça m'aidera à atteindre les objectifs  suivants:
 
