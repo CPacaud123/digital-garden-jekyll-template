@@ -2,7 +2,7 @@
 title: Spotify et co.
 ---
 
-*à développer*
+#à_développer
 
 [https://www.dj-lab.de/bruchstelle-bandcamps-neues-monopol-eine-kritische-betrachtung/](https://www.dj-lab.de/bruchstelle-bandcamps-neues-monopol-eine-kritische-betrachtung/) <br>
 

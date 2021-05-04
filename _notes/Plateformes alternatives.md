@@ -2,7 +2,7 @@
 title: Plateformes alternatives
 ---
 
-*à développer*
+#à_développer
 
 ### Plateformes alternatives
 

@@ -3,10 +3,10 @@ title: Resonate
 ---
 
 Site web:  
-[https://resonate.is/]([https://resonate.is/](https://resonate.is/))
+[https://resonate.is/](https://resonate.is/)
 
  Présentation vidéo de l’état des lieux du point de vue technologique et sur les plans de développement futurs (février 2021) :
-[https://www.youtube.com/watch?v=Ga3Bd1CFTec]()
+[https://www.youtube.com/watch?v=Ga3Bd1CFTec](https://www.youtube.com/watch?v=Ga3Bd1CFTec)
 
 <hr>
 
@@ -26,5 +26,6 @@ Le mur initial à escalader avant d’y trouver une routine est donc plutôt gra
  La communauté est très active, et les gens à la tête de plateforme sont présents et interagissent très régulièrement avec la communauté. J’y écris moi-même de façon sporadique, et j’ai toujours un retour intelligent et attentionné aux points que j’apporte. Ça me donne espoir que la plateforme évoluera et l’équipe à la barre a le cœur à la bonne place.
 
 Voyez par vous-même :  
-[https://community.resonate.is/]([https://community.resonate.is/](https://community.resonate.is/)) <br>
+[https://community.resonate.is/](https://community.resonate.is/)
+<br>
 

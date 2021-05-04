@@ -9,11 +9,11 @@ permalink: /
 
 Bienvenue chez moi.
 
-Ce qui se trouve ici, c'est un peu comme un paquet de post-its qui trainent sur mon bureau. C'est des notes, des réflexions, des listes écrites au gré du fil de ma pensée. C'est plein de culs-de-sac, de phrases pas claires et de fautes d'orthographe. Les pages vont changer de contenu, les liens vont se [[briser]], les couleurs vont changer.
+Ce qui se trouve ici, c’est un peu comme un paquet de post-its qui trainent sur mon bureau. C’est des notes, des réflexions, des listes écrites au gré du fil de ma pensée. C’est plein de culs-de-sac, de phrases pas claires et de fautes d’orthographe. Les pages vont changer de contenu, les liens vont se [[briser]], les couleurs vont être modifiées.
 
-J'avais commencé par tout construire autour d'une page d'accueil avec une table des matières, puis j'ai réalisé que ce n'était pas dans l'esprit de la chose. SAUF QUE, la table des matières du futur est un peu clunky sur mobile, donc je vous offre comme compromis deux points d'entrée dans mon cerveau : [[Contemplator]] et [[Pourquoi construire cet espace]].
+Pour naviguer ce chaos, il y a la carte du site juste en bas. Suffit de cliquer sur un titre ou une node. Vous ne trouverez pas de table des matières, comme tous les articles sont écrits sans nécessairement penser à un thème unifié. Ça s’peut que vous tombiez sur une recette de burritos dans une description de toune de Contemplator. J’dis pas qu’y en a une, mais ça POURRAIT arriver. Et là, tu mets ça dans la catégorie « Recettes » ou « Musique » ?
 
-Sinon, pour la vraie aventure, OUT, la morose liste de sujets! Voici plutôt la table des matières du futur! C'est comme des planètes!
+Bref, voici donc la table des matières du futur ! C’est comme des planètes ! J’devrais mettre un background d’espace intersidéral derrière (bientôt).
 
 {% include notes_graph.html %}
 
