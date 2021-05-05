@@ -10,8 +10,10 @@ Je souhaite les voir n'avoir à en faire aucun. Je voudrais entendre ce dont ils
 
 <img src="assets/jl22bu.gif">
 
-[[Spotify et co.|Quel angle prendre pour tenter de faire bouger la montagne?]] Il faut y aller un caillou à la fois, paraîtrait-il.
+[[Spotify et co.|Quel angle prendre pour tenter de faire bouger la montagne?]] - Il faut y aller un caillou à la fois, paraîtrait-il.
  
  [[Plateformes alternatives|Quelle initiative déjà en cours puis-je encourager (par mon action, ma présence, mes ressources)?]]
  
  [[Sources de musique nouvelle|Comment découvrir de nouvelles sources de musique?]]
+ 
+ [[Anomalies de l'industrie]] - Les gens qui font des choses différentes.

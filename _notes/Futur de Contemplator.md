@@ -1,0 +1,20 @@
+---
+title: Futur de Contemplator
+---
+J'étais sur le point de transformer Contemplator de "presque-band" à projet solo (urgh, j'haïs ce terme). Mon raisonnement : je voulais composer sans penser à qui allait jouer la musique, détacher tout ça du paradigme du band qui alterne entre composer et "tourner". 
+
+Il faut savoir que Contemplator n'est que partiellement un "groupe" au sens traditionnel. Je compose tout de mon côté. Quand on a un show à préparer, on se cédule 2 ou 3 pratiques, on se prépare du mieux qu'on peut, et on y va. Je n'ai jamais osé porter ça à l'étape logique suivante, qui aurait été d'avoir un horaire de pratiques régulières. Ça demandait trop d'investissement aux autres musiciens, à un niveau que je n'aurais pas été à l'aise de demander sans leur donner une part plus importante de participation à la musique - devenir contributeurs à la composition, ce qui était à mon sens contraire à la raison d'exister du projet - MA musique à MOI. Je commence tout juste à réaliser la futilité de ce raisonnement... Mais continuons.
+
+Tourner avec un groupe sous ces conditions, ça n'a aucun sens sauf si on tire un plaisir immense du contexte live, qui contrecarre tous les inconvénients : c'est compliqué au niveau logistique, au niveau des horaires (familles, vacances, couples, etc.), c'est coûteux, c'est ingrat - jouer devant 10 personnes loin de chez soi, on a beau dire qu'on ne fait pas ça pour la popularité, ça reste très difficile - ça pèse spécifiquement sur un paquet de mes pitons d'anxiété, et bon, je pourrais continuer. C'est tel que tel quand on en tire plus de plaisir que de malheur, mais ce n'était plus tout à fait le cas. Ou de moins en moins. Ou juste à certains moments, mais pas tout le temps.
+
+Aussi, à travers le temps, [[Industrie musicale|mes opinions et positions]] par rapport à ce que "doivent être" un groupe de musique, le format sous lequel la musique est diffusée, les moyens utilisés, la façon de la promouvoir... Tout ça me lasse infiniment, et ça pèse énormément de confronter mes vues à celles, parfois différentes, de mes amis, que je respectent.
+
+Bref, ça n'avait plus de sens d'avoir un line-up fixe dans ce contexte, et donc je pensais à éclater tout ça.
+
+Puis je me suis mis à composer seul, et sortir de la musique en faisant participer des musiciens à la volée - une toute autre expérience. Libératrice en un sens, oui, mais aussi un peu déconnectée du côté humain de "jouer en band". Pas de problème, me disais-je, j'ai BHATT pour le côté camaraderie de band et plaisir de jouer en salle. J'ai toujours dis que de monter des sets de Contemplator, c'étais plus de stress et d'anxiété que de plaisir, malheureusement. Probablement pour les mauvaises raisons - anxiété de performance, insatisfaction du résultat, vouloir que tout soit parfait, ambitionner sur la qualité à atteindre... Alors que vraiment, tout le monde y trouvait probablement son plaisir, sauf moi et mes petits démons. Et donc j'étais prêt à abandonner le "band" Contemplator.
+
+Puis récemment, après plusieurs mois, je me suis mis à réaliser tranquillement plusieurs choses. L'isolation de la pandémie, puis de revoir Antoine et Antoine, disucter de ce qu'on pourrait faire dans le futur... Pourquoi abandonner Contemplator maintenant que j'ai trouvé un certain rythme avec ma musique "perso" ? Oui, BHATT me donne mon quota d'expérience de "band", mais je réalise que je m'ennuie de jouer avec Antoine, Antoine et Max. Ça va plus loin que jouer "en band". C'est jouer en band avec les gars du band. C'est le cliché du band/famille, mais c'est vrai.
+
+Mais bon, le temps est limité, il y a 24 heures dans une journée, et pour le moment je suis concentré sur les [[Musique perso|projets solo]] (ark). Ceci dit, le retour au "band" Contemplator est de nouveau quelque chose que j'envisage, avec l'intention d'en tirer plaisir pour ce que c'est, et non ce que je voudrais que ce soit. Accepter la nature de la bête, cesser de se battre contre le courant, en voulez-vous des analogies, en v'là. 
+
+Qu'est-ce que ça voudra dire exactement, nous le verrons le temps venu !
