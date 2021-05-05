@@ -1,19 +1,39 @@
 ---
-Title: Pièce de mixage
+title: Pièce de mixage
 ---
 
+Modèle 3D de la pièce avec [Primacoustic Room Designer](https://app.primacoustic.com/app/index.html?preview=d51894bb-67d4-4697-9d02-b39a4894b6cf), en date du 5 mai.
+
 ### Matériel
-**Présent **: Genelec 8010 x2
-**Futur** : Kit 5.1 Genelec SAM, taille à déterminer.
+**Présent** : Genelec 8010 x2
+
+**Futur** : Kit 5.1 Genelec SAM, 8320A + sub matché
 
 ### Acoustique
-Kit London 12 de Primacoustics.
+* [Kit London 12 de Primacoustics](https://www.primacoustic.com/london-12/).
+	* [Musique Gagné](https://www.musiquegagne.com/z900-0120-00)
+
+* Rideau acoustique pour former un espace rectangulaire, à investiguer.
+
+* Au besoin pour le futur, cloud, options :
+	* [Acoustic Panel Canada](https://www.acousticpanelscanada.com/collections/ceiling-panels)
+	* Primacoustic, [Stratus](https://www.primacoustic.com/stratus/)
+
+
 
 ### Ressources
 
 [Primacoustic Room Designer App](https://app.primacoustic.com/) <br>
 
 [Genelec - How To Place Your Monitors](https://www.genelec.com/monitor-placement)
+
+[# Monitor Calibration & Improving Acoustics](https://www.genelec.com/calibration-acoustics)
+
+[Operating Manual 8010A](https://assets.ctfassets.net/4zjnzn055a4v/6swU8bYcg0YW4qGqCSq6Yc/fe3d79a7e3a1a2a602d6d852d0d5aead/8010a_opman.pdf)
+
+[Primacoustic London Room Kit Installation Manual](https://www.primacoustic.com/wp-content/uploads/London-Room-Kit-Manual-2020.pdf)
+
+[Acoustic Calculations](http://www.mh-audio.nl/Acoustics.html#top)
 
 ### Questions à répondre
 * Quel modèle de Genelec à prévoir pour upgrade ?
@@ -24,9 +44,3 @@ Kit London 12 de Primacoustics.
 		* Suggestion : 8320A x5 , sub matché à déterminer.
 		* Acheté chez Solotech.
 		* Geffen HDMI to HDMI pour compatibilité console.
-* Panneau amovible pour couper le L ?
-	* Rideau acoustique ?
-* Cloud
-	* Simon : Oui ça vaut la peine.
-		* Primacoustic ?
-		* Simon : Acoutic Panel Canada / 119.

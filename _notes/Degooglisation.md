@@ -2,20 +2,19 @@
 title: Dégooglisation
 ---
 
-### Listes:
+### Fait
+
+En ce moment, j’ai réussi à remplacer [[Remplacer Google Photo|Photo]], [[Remplacer Google Drive et Dropbox|Drive (Backup and Sync)]], **Search** (par [Swisscows](https://swisscows.com/)) et **Translate** (par [DeepL](https://www.deepl.com/)).
+
+J’ai supprimé mon compte **Gmail ** que je n’utilisais pas, mais dans lequel je recevais encore tout ce qui était directement associé à mon compte Google comme les notifications de Docs/Sheets.
+
+### À faire
+
+Pour **YouTube**, malheureusement, pour le moment je n’envisage pas de déplacer mon contenu. Si je devais finir par le faire, mon premier candidat serait [Vimeo](https://vimeo.com/). Sinon, il existe des alternatives décentralisées à YouTube, dont [PeerTube](https://joinpeertube.org) et [d.Tube](https://d.tube/).
+
+En ce qui a trait à **Android**, pour le moment j’ai désactivé toute la synchronisation des services du téléphone avec mon compte (du moins, je crois). Éventuellement, j’ai pour projet de tenter de me monter un téléphone Android « degooglisé », c’est-à-dire déconnecté de l’écosystème de Google imposé principalement via Play et la synchronisation de tous les services du téléphone au compte utilisateur Google. C’est le prochain milestone majeur de ma dégooglisation et certainement le plus compliqué. C’est vraiment là que Google a mainmise presque totale. Je compte regarder pour me procurer un Pixel (comble de l’ironie, ce seraient les téléphones les plus faciles à degoogliser) et y installer [LineageOS](https://lineageos.org/), puis n’installer des applications que par [F-Droid](https://f-droid.org/).
+
+### Listes
 [https://restoreprivacy.com/google-alternatives/](https://restoreprivacy.com/google-alternatives/) <br>
 [https://justprivacy.org/google-alternatives/](https://justprivacy.org/google-alternatives/) <br>
 [https://nordvpn.com/fr/blog/google-photos-alternatives/](https://nordvpn.com/fr/blog/google-photos-alternatives/) <br>
-
-### Alternatives
-[https://photostructure.com/](https://photostructure.com/) /// Google Photos <br>
-[https://swisscows.com/](https://swisscows.com/) /// Google Search <br>
-[https://www.deepl.com/](https://www.deepl.com/) /// Google Translate <br>
-[https://www.sync.com/](https://www.sync.com/) // Google Drive <br>
-À noter : Ne faites pas comme moi. J'ai assumé que les fichiers .gsheet / .gdoc et compagnie étaient des copies locales contenant les données des documents. Ce ne sont que des liens vers les données qui sont dans le cloud. Vous devrez les exporter si vous voulez les garder après avoir supprimé votre compte.
-
-### Plus d'alternatives
-
-[https://mstdn.io/](https://mstdn.io/) /// Alternative à Twitter <br>
-[https://joinpeertube.org/](https://joinpeertube.org/) /// Alternative à Youtube <br>
->  PeerTube aspires to be a **decentralized and free/libre alternative** to video broadcasting services.
