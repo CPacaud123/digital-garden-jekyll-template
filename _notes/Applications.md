@@ -19,6 +19,3 @@ Title: Applications
 
 [Coolors Color Picker](https://coolors.co/color-picker)
 >Get useful color information like conversion, combinations, blindness simulation and more.
-
-Rendre son PC anti-chat :
-<img src="assets/FB_IMG_1558186831206.jpg">

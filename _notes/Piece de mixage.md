@@ -5,9 +5,17 @@ title: Pièce de mixage
 Modèle 3D de la pièce avec [Primacoustic Room Designer](https://app.primacoustic.com/app/index.html?preview=d51894bb-67d4-4697-9d02-b39a4894b6cf), en date du 5 mai.
 
 ### Matériel
-**Présent** : Genelec 8010 x2
+###### Présent
+Genelec 8010 x2
 
-**Futur** : Kit 5.1 Genelec SAM, 8320A + sub matché
+###### Futur
+
+Micro pour prise de son instruments acoustiques / voix :
+* Rode NT4 (stereo) / AKG C214 (C414 moins cher) / AKG C451B (small diaphragm)
+
+Upgrade à 5.1 ch (2022+) :
+* Kit 5.1 Genelec SAM, 8320A + sub matché
+
 
 ### Acoustique
 * [Kit London 12 de Primacoustics](https://www.primacoustic.com/london-12/).

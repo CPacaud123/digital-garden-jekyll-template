@@ -11,6 +11,6 @@ Ne faites pas comme moi. J’ai assumé que les fichiers .gsheet/ .gdoc (Google 
 J’ai commencé par tout copier mes données tenues localement qui était synchronisé vers Drive et Dropbox vers mon nouveau dossier à synchroniser. Je me suis assuré que le tout était bel et bien copié, et téléchargé sur plusieurs postes (j’ai plusieurs PCs) avant de « déconnecter » Drive et Dropbox (risque de perdre les données !).
 Je n’ai seulement gardé sur Drive que les fichiers partagés relatifs à des projets encore en cours. Lorsque ce ne sera plus nécessaire, je pourrai m’en détacher complètement.
 
-J’utilise maintenant [Sync](https://www.sync.com/) en remplacement de Drive (et Dropbox). J’ai pris le plan 2 Tb pour m’en servir aussi comme « backup cloud » pour tous mes projets de musique, entre autres. J’ai déjà utilisé [Carbonite](https://www.carbonite.com/) pour mes backups, anciennement CrashPlan, mais le prix et leurs forfaits changeaient continuellement (pas pour le mieux).
+J’utilise maintenant [Sync](https://www.sync.com/) en remplacement de Drive (et Dropbox). J’ai pris le plan 2 Tb pour m’en servir aussi comme « backup cloud » pour tous mes projets de musique, entre autres. J’ai déjà utilisé [Carbonite](https://www.carbonite.com/) pour mes backups, anciennement CrashPlan, mais le prix et leurs forfaits changeaient continuellement (pas pour le mieux). Malheureusement, ce n'est pas aussi puissant comme solution.
 
 Sync est une entreprise canadienne, et leurs serveurs sont physiquement en sol canadien.
