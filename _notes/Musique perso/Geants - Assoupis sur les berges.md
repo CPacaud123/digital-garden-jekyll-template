@@ -37,3 +37,5 @@ La pièce marque ma première collaboration avec tous ses musiciens. C’était 
 Certains sont de nouveaux liens créés à partir de mon réseau de connaissances immédiat (dans le cas de Nancy et le Quatuor Crema).
 
 Dans le cas de Cameron et Thomas, ce sont des rencontres qui ont été le fruit de contacts un peu aléatoires, des opportunités de collaboration qui se sont présentées en cours de route —J’ai fait connaissance avec Cameron par mon exploration de [[Plateformes alternatives|Ampled]] et Thomas m’a contacté au sujet de mes arrangements de piano sur l’album Xenogears Light via la messagerie de Soundcloud.
+
+<img src="assets/Giants_Crema1.jpg">

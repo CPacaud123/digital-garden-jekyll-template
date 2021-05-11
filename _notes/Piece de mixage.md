@@ -11,7 +11,11 @@ Genelec 8010 x2
 ###### Futur
 
 Micro pour prise de son instruments acoustiques / voix :
-* Rode NT4 (stereo) / AKG C214 (C414 moins cher) / AKG C451B (small diaphragm)
+* Rode NT4 (stereo)
+	*  Bastien : Aigus très prononcés (trop)
+*  AKG C214 (C414 moins cher) 
+*  AKG C451B (small diaphragm)
+*  Warm Audio WA-14 (clone de C414)
 
 Upgrade à 5.1 ch (2022+) :
 * Kit 5.1 Genelec SAM, 8320A + sub matché
