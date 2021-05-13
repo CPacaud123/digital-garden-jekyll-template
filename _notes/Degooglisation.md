@@ -6,7 +6,7 @@ title: Dégooglisation
 
 En ce moment, j’ai réussi à remplacer [[Remplacer Google Photo|Photo]], [[Remplacer Google Drive et Dropbox|Drive (Backup and Sync)]], **Search** (par [Swisscows](https://swisscows.com/)) et **Translate** (par [DeepL](https://www.deepl.com/)).
 
-J’ai supprimé mon compte **Gmail ** que je n’utilisais pas, mais dans lequel je recevais encore tout ce qui était directement associé à mon compte Google comme les notifications de Docs/Sheets.
+J’ai supprimé mon compte **Gmail** que je n’utilisais pas, mais dans lequel je recevais encore tout ce qui était directement associé à mon compte Google comme les notifications de Docs/Sheets.
 
 ### À faire
 

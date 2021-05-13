@@ -1,6 +1,9 @@
 ---
 title: Projets du moment
 ---
+### À perpétuité
+[[Liste de livres|Mes lectures du moment (et passées)]] et mon [[Journal de gaming|journal de gaming]].
+
 ### En cours
 [[Pourquoi construire cet espace|Ce site]] qui est mon petit terrain de jeu web, ainsi qu'un bloc-notes / poubelle mentale / lieu de réflexion en public, par lequel je tente de calmer mon cerveau qui roule sur trois-quatre channels en même temps et m'empêche trop souvent de vivre le présent.
 
