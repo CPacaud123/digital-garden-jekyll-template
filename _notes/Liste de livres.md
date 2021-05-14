@@ -3,6 +3,11 @@ title: Liste de livres
 ---
 Une liste des livres que je veux lire, suivie d'une liste non-exhaustive des livres que j'ai lu et que j'ai trouvé assez intéressant pour partager ici.
 
+# En cours
+**Harari, Y. N. (2018). _Sapiens : A Brief History of Humankind_ (Reprint éd.). Harper Perennial.**
+
+J'en suis encore au tout début, mais c'est rafraichissant d'être amené à regarder l'humain (pardon, l'homo sapiens) à travers ses origines et comment nous serions défini par une longue histoire qui nous est presque complètement inaccessible (puisque non documentée - pré-écriture et tout).
+
 # Dernière lecture
 **Brinkmann, S. (2019). _The Joy of Missing Out : The Art of Self-Restraint in an Age of Excess_ (1re éd.). Polity.**
 
@@ -11,8 +16,6 @@ Une très courte (2 à 3 heures, 150 pages environ), mais très dense lecture da
 J’ai l’intention de relire le livre (ça serait une première !), j’ai l’impression de ne pas tout avoir absorbé !
 
 # À lire
-
-**Harari, Y. N. (2018). _Sapiens : A Brief History of Humankind_ (Reprint éd.). Harper Perennial.**
 
 **Harari, Y. N. (2018a). _Homo Deus : A Brief History of Tomorrow_ (Illustrated éd.). Harper Perennial.**
 
@@ -26,7 +29,7 @@ J’ai l’intention de relire le livre (ça serait une première !), j’ai l�
 
 **Eriksson, M., Fleischer, R., Johansson, A., Snickars, P., & Vonderau, P. (2019). _Spotify Teardown : Inside the Black Box of Streaming Music (The MIT Press)_ (Illustrated éd.). The MIT Press.**
 
-
+**Éric-Emmanuel Schmitt - Paradis Perdu** (recommandé par Alexis Marzin)
 
 
 
