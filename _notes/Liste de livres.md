@@ -6,7 +6,7 @@ Une liste des livres que je veux lire, suivie d'une liste non-exhaustive des liv
 # En cours
 **Harari, Y. N. (2018). _Sapiens : A Brief History of Humankind_ (Reprint éd.). Harper Perennial.**
 
-J'en suis encore au tout début, mais c'est rafraichissant d'être amené à regarder l'humain (pardon, l'homo sapiens) à travers ses origines et comment nous serions défini par une longue histoire qui nous est presque complètement inaccessible (puisque non documentée - pré-écriture et tout).
+ J’en suis encore au tout début, mais c’est rafraichissant d’être amené à regarder l’humain (pardon, l’homo sapiens) à travers ses origines et comment nous serions défini par une longue histoire qui nous est presque complètement inaccessible (puisque non documentée — pré-écriture et tout).
 
 # Dernière lecture
 **Brinkmann, S. (2019). _The Joy of Missing Out : The Art of Self-Restraint in an Age of Excess_ (1re éd.). Polity.**
