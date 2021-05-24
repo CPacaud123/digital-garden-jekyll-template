@@ -7,6 +7,9 @@ title: Journal de gaming
 **17 mai 2021**
 Du bon citybuilding médiéval qui me rappelle Settlers II, et développé à Québec (par Polymorph Games) !
 
+**24 mai 2021**
+Toujours accroché. Tenter de maintenir l'équilibre avec l'afflux constant d'immigrants qui change les priorités de façon régulière est addictif. C'est vraiment bien exécuté. Par contre, après une vingtaine d'heure, je sens que j'approche du point où j'aurai vu tout le contenu que le jeu a à offrir. On verra si je serai toujours intéressé après.
+
 ## Diablo III (PS4) en coop avec Marie
 **13 mai 2021**
 On joue ça à Normal sans trop faire attention et en skippant tous les dialogues. Je fais un necromancer, elle fait un monk. Bing bang.
