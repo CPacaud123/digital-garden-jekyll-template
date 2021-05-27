@@ -2,6 +2,8 @@
 title: Journal de gaming
 ---
 
+>J'ai réfléchi et je crois que j'ai un petit problème avec faire puis tenir à jour des listes... [[Faire des listes|J'ai décidé de les laisser tomber]] mais de les laisser "vivre". Un cimetière de listes... ? (Woah, c'est un cool nom de pièce, ça.)
+
 # En cours
 ## Foundation (PC)
 **17 mai 2021**

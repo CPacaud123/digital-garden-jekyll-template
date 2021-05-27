@@ -1,7 +1,7 @@
 ---
 title: Craintes
 ---
-Je craint que ma musique soit quelconque. J'ai peur de réaliser avec horreur que ce que je créé ne soit qu'une version inférieure de quelque chose qui existe déjà, une pâle [[imitation]]. 
+Je craint que ma musique soit quelconque. J'ai peur de réaliser avec horreur que ce que je créé ne soit qu'une version inférieure de quelque chose qui existe déjà, une pâle [[Imitation|imitation]]. 
 
 (Pourquoi...?)
 

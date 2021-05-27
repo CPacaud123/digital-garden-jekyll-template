@@ -1,6 +1,8 @@
 ---
 title: Liste de livres
 ---
+>J'ai réfléchi et je crois que j'ai un petit problème avec faire puis tenir à jour des listes... [[Faire des listes|J'ai décidé de les laisser tomber]] mais de les laisser "vivre". Un cimetière de listes... ? (Woah, c'est un cool nom de pièce, ça.)
+
 Une liste des livres que je veux lire, suivie d'une liste non-exhaustive des livres que j'ai lu et que j'ai trouvé assez intéressant pour partager ici.
 
 # En cours
