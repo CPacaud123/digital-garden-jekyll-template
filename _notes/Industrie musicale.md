@@ -10,6 +10,10 @@ Je souhaite les voir n'avoir à en faire aucun. Je voudrais entendre ce dont ils
 
 <img src="assets/jl22bu.gif">
 
+C'en est même rendu difficile de trouver de la [[Acheter de la musique en ligne|musique à acheter en ligne]] au Canada sans passer par Apple ou Amazon.
+
+<hr>
+
 [[Spotify et co.|Quel angle prendre pour tenter de faire bouger la montagne?]] - Il faut y aller un caillou à la fois, paraîtrait-il.
  
  [[Plateformes alternatives|Quelle initiative déjà en cours puis-je encourager (par mon action, ma présence, mes ressources)?]]
