@@ -14,3 +14,7 @@ C’est un autre gros trip orchestro-progressif pour lequel j’irai encore cher
  En date du 19 mai 2021, le Quatuor Crema a commencé à pratiquer ses parties. J'ai pu entendre un aperçu et encore une fois, c'est comme Noël en avance. Le processus pour cette pièce-ci s'annonce plus long, comme les parties sont plus complexes et les instruments orchestraux, surtout les cordes, sont intégrés de façon plus fondamentale à la composition. En fait, certaines sections sont en fin de compte purement orchestrales.
  
  Pour une première fois, le fait que cette pièce-ci demande plus de préparation au quatuor nous offre l’occasion de peaufiner les détails sur certaines sections. À défaut d’être présent en personne aux répétitions, j’ai pu faire quelques commentaires et suggestions et apporter des ajustements aux partitions en écoutant quelques extraits.
+ 
+ ///
+ 
+ 12 juin : J'ai reçu la partie de hautbois, joué par Jean-Sébastien Blais, et les parties de flûte et de piccolo, joués par Geneviève Savoie ! J'ai aussi entendu des extraits des pratiques du Quatuor Crema et d'Alexandre pour la batterie. J'ai très très hâte d'entendre ce qui émergera de toutes ces belles contributions ! J'espère partager la version finale en juillet.
