@@ -11,7 +11,7 @@ On a emménagé dans notre première maison en novembre 2020, et depuis on retap
 
 La tâche herculéenne de [[Se detacher de Facebook]]. Y arriverai-je ?
 
-Je me suis mis à contribuer aux données de [[OpenStreetMaps]] !
+Je me suis mis à contribuer aux données de [[OpenStreetMap]] !
 
 ### Pas mal fini
 J'ai un beau petit [[Musique d'ambiance|setup pour faire jouer ma librairie de musique]] facilement dans mon salon via Foobar2000 et des plug-ins (on me suggère en français : plugiciels, greffons, ajouticiels, addiciels).

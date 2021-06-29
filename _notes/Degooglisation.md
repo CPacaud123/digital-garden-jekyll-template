@@ -4,9 +4,13 @@ title: Dégooglisation
 
 ### Fait
 
-En ce moment, j’ai réussi à remplacer [[Remplacer Google Photo|Photo]], [[Remplacer Google Drive et Dropbox|Drive (Backup and Sync)]], **Search** (par [Swisscows](https://swisscows.com/)) et **Translate** (par [DeepL](https://www.deepl.com/)).
+En ce moment, j’ai réussi à remplacer [[Remplacer Google Photo|Photo]], [[Remplacer Google Drive et Dropbox|Drive (Backup and Sync)]], **Search** (par [Swisscows](https://swisscows.com/) et [Brave Search](https://search.brave.com/)) et **Translate** (par [DeepL](https://www.deepl.com/)).
 
 J’ai supprimé mon compte **Gmail** que je n’utilisais pas, mais dans lequel je recevais encore tout ce qui était directement associé à mon compte Google comme les notifications de Docs/Sheets.
+
+Pour le **Play Store** d'Android, je tente le plus possible de trouver des applications sur [F-Droid](https://f-droid.org/fr/).
+
+Pour **Maps**, j'essaie le plus possible d'utiliser les données de [[OpenStreetMap]] via l'application [Organic Maps](https://organicmaps.app/) (des créateurs de Maps.me). Certaines fonctionnalités vraiment pratiques de Google Maps sont absentes, dont l'information sur la circulation. On peut retrouver ça sur d'autres alternatives, dont [Here WeGo](https://wego.here.com/). Un tableau comparatif de plusieurs logiciels de navigation est tenu sur [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_satellite_navigation_software).
 
 ### À faire
 
