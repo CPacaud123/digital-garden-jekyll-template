@@ -9,44 +9,44 @@ Voici donc où j'en suis en date de novembre 2021 :
 
 ## Solutions trouvées
 
-###### Global
+### Global
 **Cloud** : Google Drive / Dropbox / OneDrive -> Nextcloud (hébergé sur Cloudamo)
-**Email** : Tutanota
-**Musique** : Clementine, librairie locale
+<br>**Email** : Tutanota
+<br>**Musique** : Clementine, librairie locale
 
-###### PC
+### PC
 **OS PC media center et gaming** : Windows 10 -> Linux Mint
-**Browser PC** : Firefox
-**Carte** : Qwant Maps (data OpenStreetMap)
-**Mots de passe** : Keeweb (sur Nextcloud)
-**Redirection de site webs** : Privacy Redirect (extension Firefox - redirige Youtube vers Invidious, Twitter vers Nitter, Reddit vers Libredd.it)
-**Adblock** : uBlock Origin + Privacy Badger
+<br>**Browser PC** : Firefox
+<br>**Carte** : Qwant Maps (data OpenStreetMap)
+<br>**Mots de passe** : Keeweb (sur Nextcloud)
+<br>**Redirection de site webs** : Privacy Redirect (extension Firefox - redirige Youtube vers Invidious, Twitter vers Nitter, Reddit vers Libredd.it)
+<br>**Adblock** : uBlock Origin + Privacy Badger
 
-###### Android
+### Android
 **Appareil** : Teracube 2e
-**OS Android** : /e/ OS
-**Carte** : Magic Earth (data OpenStreetMap)
-**Browser** : Iceraven / Fennec (branches de Firefox)
-**App Stores** : F-Droid, Apps (/e/), Aurora Store
-**Mots de passe** : Keepass2Android (sur Nextcloud)
-**Accès Youtube** : NewPipe
-**Accès Reddit** : RedReader
-**Messagerie** : Silence
-**2FA** : andOTP
+<br>**OS Android** : /e/ OS
+<br>**Carte** : Magic Earth (data OpenStreetMap)
+<br>**Browser** : Iceraven / Fennec (branches de Firefox)
+<br>**App Stores** : F-Droid, Apps (/e/), Aurora Store
+<br>**Mots de passe** : Keepass2Android (sur Nextcloud)
+<br>**Accès Youtube** : NewPipe
+<br>**Accès Reddit** : RedReader
+<br>**Messagerie** : Silence
+<br>**2FA** : andOTP
 
-###### Comptes et autres
+### Comptes et autres
 **Facebook** : compte désactivé (utilise toujours Messenger)
-**Twitter** : compte effacé
-**LinkedIn** : compte effacé
-**Instagram** : compte effacé
-**Google Gmail** : redirige vers Hotmail
-**Google Maps** : historique et données effacées
-**Google Drive / Sheets / Docs** : données effacées
+<br>**Twitter** : compte effacé
+<br>**LinkedIn** : compte effacé
+<br>**Instagram** : compte effacé
+<br>**Google Gmail** : redirige vers Hotmail
+<br>**Google Maps** : historique et données effacées
+<br>**Google Drive / Sheets / Docs** : données effacées
 
 ## Toujours "problématique"
 **OS PC travail** : Windows 10
-**Adresse email principale** : Outlook / Hotmail
-**Messagerie Android** : Messenger Lite
-**Messagerie PC** : Caprine (client Messenger 3rd party)
-**Suite Office** : Microsoft Office 365
-**Video** : Compte Youtube
+<br>**Adresse email principale** : Outlook / Hotmail
+<br>**Messagerie Android** : Messenger Lite
+<br>**Messagerie PC** : Caprine (client Messenger 3rd party)
+<br>**Suite Office** : Microsoft Office 365
+<br>**Video** : Compte Youtube
