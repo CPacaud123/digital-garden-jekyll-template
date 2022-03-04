@@ -5,7 +5,7 @@ Ce qui m'inquiète, c'est la concentration de l'information dans les mains d'un 
  
 Dans le fond, c'est ça, l'objectif que je poursuis par mes démarches de [[Defacebookisation]] et la [[Degooglisation]] : la décentralisation de ma présence virtuelle. 
 
-Un site qui explique et accompagne vraiment bien le processus : [GoFOSS](https://gofoss.today/)
+Un site qui explique et accompagne vraiment bien le processus : [GoFOSS](https://gofoss.net/fr/)
 
 Voici donc où j'en suis en date de novembre 2021 : 
 
