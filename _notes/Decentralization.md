@@ -3,7 +3,7 @@ title: Décentralization
 ---
 Je suis inquiété par la concentration de l'information dans les mains d'un nombre très limité d'acteurs de l'espace virtuel chez qui je remets en doute la bienveillance.
  
-Dans le fond, c'est ça, l'objectif que je poursuis par mes démarches de [[Defacebookisation]] et la [[Degooglisation]] : interagir avec le web via des plateformes et des systèmes qui, par leur nature, ne peuvent pas utilisé ma présence, mes interactions et mon "contenu" (pour manque d'un meilleur mot en ce moment) contre mon gré et à des fins qui vont à l'encontre de mes valeurs. 
+Dans le fond, c'est ça, l'objectif que je poursuis par mes démarches de [[Defacebookisation]] et la [[Degooglisation]] : interagir avec le web via des plateformes et des systèmes qui, par leur nature, ne peuvent pas utiliser ma présence, mes interactions et mon "contenu" (pour manque d'un meilleur mot en ce moment) contre mon gré et à des fins qui vont à l'encontre de mes valeurs. 
 
 Un site qui explique et accompagne vraiment bien ce type de démarches : [GoFOSS](https://gofoss.net/fr/)
 
@@ -19,7 +19,7 @@ Voici donc où j'en suis en date de mars 2022 :
 
 ### PC
 **OS PC media center et gaming** : [Linux Mint](https://linuxmint.com/)
-<br>**Browser PC** : [Firefox](https://www.mozilla.org/en-CA/firefox/products/)
+<br>**Browser PC** : [Firefox](https://www.mozilla.org/en-CA/firefox/products/) (principal) / [Min](https://minbrowser.org/) (chromium-based)
 <br>**Carte** : [Qwant Maps](https://www.qwant.com/maps/) (data [OpenStreetMap](https://www.openstreetmap.org/))
 <br>**Redirection de site webs** : Privacy Redirect (extension Firefox - redirige Youtube vers [Invidious](https://yewtu.be/), Twitter vers [Nitter](https://nitter.net/), Reddit vers [Libredd.it](https://libredd.it/))
 <br>**Adblock** : uBlock Origin + Privacy Badger (extension Firefox)
