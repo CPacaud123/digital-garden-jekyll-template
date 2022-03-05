@@ -1,21 +1,21 @@
 ---
 title: Décentralization
 ---
-Ce qui m'inquiète, c'est la concentration de l'information dans les mains d'un nombre très limité d'acteurs de l'espace virtuel chez qui je remets en doute la bienveillance.
+Je suis inquiété par la concentration de l'information dans les mains d'un nombre très limité d'acteurs de l'espace virtuel chez qui je remets en doute la bienveillance.
  
-Dans le fond, c'est ça, l'objectif que je poursuis par mes démarches de [[Defacebookisation]] et la [[Degooglisation]] : la décentralisation de ma présence virtuelle. 
+Dans le fond, c'est ça, l'objectif que je poursuis par mes démarches de [[Defacebookisation]] et la [[Degooglisation]] : interagir avec le web via des plateformes et des systèmes qui, par leur nature, ne peuvent pas utilisé ma présence, mes interactions et mon "contenu" (pour manque d'un meilleur mot en ce moment) contre mon gré et à des fins qui vont à l'encontre de mes valeurs. 
 
-Un site qui explique et accompagne vraiment bien le processus : [GoFOSS](https://gofoss.net/fr/)
+Un site qui explique et accompagne vraiment bien ce type de démarches : [GoFOSS](https://gofoss.net/fr/)
 
-Voici donc où j'en suis en date de novembre 2021 : 
+Voici donc où j'en suis en date de mars 2022 : 
 
 ## Solutions trouvées
 
 ### Global
-**Cloud** : [Nextcloud](https://nextcloud.com/) (hébergé sur [Cloudamo](https://cloudamo.com/))
-<br>**Email** : [Tutanota](https://tutanota.com/)
+**Cloud** : Combinaison de [Nextcloud](https://nextcloud.com/) (hébergé sur [Cloudamo](https://cloudamo.com/)) synchronisé par un seul de mes PCs locaux, et [Syncthing](https://syncthing.net/) qui synchronise ensemble tous les PCs de mon LAN (depuis Jan/Fév 2022).
+<br>**Email** : [Tutanota](https://tutanota.com/) (j'utilise encore principalement mon adresse Hotmail... Je considère changer vers [ProtonMail](https://protonmail.com/))
 <br>**Mots de passe** : [KeeWeb](https://keeweb.info/) (sur Nextcloud)
-<br>**Musique** : [Clementine](https://www.clementine-player.org/) (Linux) / [Foobar2000](https://www.foobar2000.org/) (Win10), librairie de musique locale
+<br>**Musique** : [Clementine](https://www.clementine-player.org/) (Linux) / [Foobar2000](https://www.foobar2000.org/) (Win10), librairie de musique en local.
 
 ### PC
 **OS PC media center et gaming** : [Linux Mint](https://linuxmint.com/)
@@ -28,11 +28,12 @@ Voici donc où j'en suis en date de novembre 2021 :
 **Appareil** : [Teracube 2e](https://myteracube.com/)
 <br>**OS Android** : [/e/ OS](https://e.foundation/e-os/)
 <br>**Carte** : [Magic Earth](https://www.magicearth.com/) (data [OpenStreetMap](https://www.openstreetmap.org/))
+<br> **Launcher** : [Unlauncher](https://jkuester.github.io/unlauncher/)
 <br>**Browser** : [Iceraven](https://github.com/fork-maintainers/iceraven-browser#readme) (branche de Firefox)
 <br>**App Stores** : [F-Droid](https://f-droid.org/), Apps (/e/), Aurora Store
 <br>**Mots de passe** : [Keepass2Android](https://github.com/PhilippC/keepass2android) (sur Nextcloud)
-<br>**Accès Youtube** : [NewPipe](https://newpipe.net/)
-<br>**Accès Reddit** : [RedReader](https://github.com/QuantumBadger/RedReader)
+<br>**Accès Youtube** : [NewPipe](https://newpipe.net/) (Mar 2022 : désintallé)
+<br>**Accès Reddit** : [RedReader](https://github.com/QuantumBadger/RedReader) (Mar 2022 : désintallé)
 <br>**Messagerie** : [Silence](https://silence.im/)
 <br>**Suite Office** : [Collabora Office](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 <br>**2FA** : [andOTP](https://github.com/andOTP/andOTP)
