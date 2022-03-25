@@ -2,6 +2,31 @@
 title: Géants - Naître en soif de vide
 ---
 
+<iframe style="border: 0; width: 400px; height: 400px;" src="https://bandcamp.com/EmbeddedPlayer/track=3161861024/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://christianpacaud.bandcamp.com/track/g-ants-na-tre-en-soif-de-vide">Géants - Naître en soif de vide by Christian Pacaud</a></iframe>
+
+Christian Pacaud : musique, arrangements, mixage, guitare et basse  
+Alexandre Hudon : batterie  
+  
+Geneviève Savoie : piccolo, flûte traversière  
+Jean-Sébastien Blais : hautbois  
+Stéphane Fontaine : clarinette  
+Yana Ouellet : basson  
+  
+Quatuor Crema ([www.quatuorcrema.com](http://www.quatuorcrema.com))  
+Inti Manzi : violon  
+Jean-Michel Marois : violon  
+Annie Morrier : alto  
+Rachel Baillargeon : violoncelle  
+  
+Antoine Baril : enregistrement - batterie ([hemispherestudio.com](https://hemispherestudio.com/))  
+Inti Manzi : enregistrement - violons, alto, violoncelle, clarinette  
+  
+Photo : Christian Pacaud
+
+<hr>
+
+### Notes
+
 "Géants - Naître en soif de vide" (le "working title" était Birth), dont j’ai amorçé la composition durant l’été 2019 comme pièce pour [[Contemplator]] (encore), s’enligne pour être la continuité de [[Geants - Assoupis sur les berges|Géants]] au niveau esthétique, en continuant de faire pencher de plus en plus la balance du côté orchestral.
 
 Voici une version en construction, si vous êtes curieux :

@@ -18,6 +18,8 @@ Jean-Michel Marois : violon
 Annie Morrier : alto  
 Rachel Baillargeon : violoncelle
 
+Photo : Fleuve Saint-Laurent à marée basse, 26 juillet 2020, Trois-Pistoles, Québec / Christian Pacaud
+
 <hr>
 
 ### Composition
