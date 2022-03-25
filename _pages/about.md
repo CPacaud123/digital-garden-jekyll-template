@@ -10,6 +10,6 @@ Je suis musicien et concepteur sonore. Des fois, j'ai de la misère à dormir ou
 
 Ce site (ici, sur lequel vous êtes présentement, ça, là) est construit sur le principe de ce que l'on appelle communément un [[digital gardens|digital garden]] et j'ai utilisé un patron (en français: un template) gracieusement offert par [Maxime Vaillancourt](https://maximevaillancourt.com/). Je laisse ici le [lien](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) vers le guide que j'ai suivi pour monter ça.
 
-Je n'ai plus de profil sur Facebook depuis octobre 2021.
+Je ne suis plus actif sur Facebook depuis octobre 2021.
 
-Ma musique est sur Bandcamp ([sous mon nom](https://christianpacaud.bandcamp.com/) et en tant que [Contemplator](https://contemplator.bandcamp.com/)) et [Audius](https://audius.co/cpacaud).
+Ma musique est sur Bandcamp ([sous mon nom](https://christianpacaud.bandcamp.com/) et en tant que [Contemplator](https://contemplator.bandcamp.com/)), [Resonate](https://stream.resonate.coop/artist/12138) et [Audius](https://audius.co/cpacaud).
