@@ -16,6 +16,7 @@ Voici donc où j'en suis en date de mars 2022 :
 <br>**Email** : [Tutanota](https://tutanota.com/) (j'utilise encore principalement mon adresse Hotmail... Je considère changer vers [ProtonMail](https://protonmail.com/))
 <br>**Mots de passe** : [KeeWeb](https://keeweb.info/) (sur Nextcloud)
 <br>**Musique** : [Clementine](https://www.clementine-player.org/) (Linux) / [Foobar2000](https://www.foobar2000.org/) (Win10), librairie de musique en local.
+<br>**Recherche** : [Kagi](https://kagi.com/)
 
 ### PC
 **OS PC media center et gaming** : [Linux Mint](https://linuxmint.com/)
