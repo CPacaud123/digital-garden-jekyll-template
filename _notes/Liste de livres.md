@@ -6,18 +6,10 @@ title: Liste de livres
 Une liste des livres que je veux lire, suivie d'une liste non-exhaustive des livres que j'ai lu et que j'ai trouvé assez intéressant pour partager ici.
 
 # En cours
-**Harari, Y. N. (2018). _Sapiens : A Brief History of Humankind_ (Reprint éd.). Harper Perennial.**
-
- J’en suis encore au tout début, mais c’est rafraichissant d’être amené à regarder l’humain (pardon, l’homo sapiens) à travers ses origines et comment nous serions défini par une longue histoire qui nous est presque complètement inaccessible (puisque non documentée — pré-écriture et tout).
- 
-C'en était qu'un avant-goût. Le livre invite à observer l'humanité d'un oeil très objectif, afin de réfléchir sur les mécanismes qui nous amènent à coopérer à l'échelle mondiale (la monnaie, la religion, les "mythes"). L'ambition de l'auteur dans l'échelle de son observation est impressionante.
+Ministry for the Future
 
 # Dernière lecture
-**Brinkmann, S. (2019). _The Joy of Missing Out : The Art of Self-Restraint in an Age of Excess_ (1re éd.). Polity.**
-
-Une très courte (2 à 3 heures, 150 pages environ), mais très dense lecture dans laquelle on propose de cesser de tenter de tout faire, de tout connaître, de tout suivre, d’être ami avec tout le monde, de tenter de s’améliorer sans cesse. On nous dit que sans limites, on s’embarque dans une roue qui n’a pas de fin. On nous propose de se centrer sur l’essentiel et de « manquer » le reste. On nous propose d’accepter d’avoir moins que son dû. On nous fait observer le phénomène des bonheurs extrêmes, mais éphémères auquel notre époque carbure et se brûle à vue d’œil. On critique le minimalisme mode vendu par les coachs de vie et influenceurs. On nuance les propos en admettant que tout ça ne soit pas à la portée de tout le monde. On termine en déclarant que la modération doit être approchée… avec modération.  
-
-J’ai l’intention de relire le livre (ça serait une première !), j’ai l’impression de ne pas tout avoir absorbé !
+(à mettre à jour)
 
 # À lire
 
@@ -38,6 +30,18 @@ J’ai l’intention de relire le livre (ça serait une première !), j’ai l�
 
 
 # Lu
+**Harari, Y. N. (2018). _Sapiens : A Brief History of Humankind_ (Reprint éd.). Harper Perennial.**
+
+Rafraichissant d’être amené à regarder l’humain (pardon, l’homo sapiens) à travers ses origines et comment nous serions défini par une longue histoire qui nous est presque complètement inaccessible (puisque non documentée — pré-écriture et tout).
+ 
+C'en était qu'un avant-goût. Le livre invite à observer l'humanité d'un oeil très objectif, afin de réfléchir sur les mécanismes qui nous amènent à coopérer à l'échelle mondiale (la monnaie, la religion, les "mythes"). L'ambition de l'auteur dans l'échelle de son observation est impressionante.
+
+**Brinkmann, S. (2019). _The Joy of Missing Out : The Art of Self-Restraint in an Age of Excess_ (1re éd.). Polity.**
+
+Une très courte (2 à 3 heures, 150 pages environ), mais très dense lecture dans laquelle on propose de cesser de tenter de tout faire, de tout connaître, de tout suivre, d’être ami avec tout le monde, de tenter de s’améliorer sans cesse. On nous dit que sans limites, on s’embarque dans une roue qui n’a pas de fin. On nous propose de se centrer sur l’essentiel et de « manquer » le reste. On nous propose d’accepter d’avoir moins que son dû. On nous fait observer le phénomène des bonheurs extrêmes, mais éphémères auquel notre époque carbure et se brûle à vue d’œil. On critique le minimalisme mode vendu par les coachs de vie et influenceurs. On nuance les propos en admettant que tout ça ne soit pas à la portée de tout le monde. On termine en déclarant que la modération doit être approchée… avec modération.  
+
+J’ai l’intention de relire le livre (ça serait une première !), j’ai l’impression de ne pas tout avoir absorbé !
+
 **Sacks, O. (2008). _Musicophilia : Tales of Music and the Brain, Revised and Expanded Edition_ (Revised&enlarged éd.). Vintage.**
 
  Ça m'a pris beaucoup de temps pour me convaincre de le commencer - je haïssais la pochette. Anecdotes de fou sur des gens qui perçoivent la musique différemment à la suite de conditions neurologiques. Une des lectures les plus intéressantes que j'aille faites de ma vie.
