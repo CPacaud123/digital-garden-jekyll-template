@@ -1,5 +1,5 @@
 ---
-title: Sources d'information
+title: Sources d'information sur l'industrie de la musique
 ---
 
 #à_développer

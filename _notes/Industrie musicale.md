@@ -2,7 +2,7 @@
 Title: Industrie musicale
 ---
 
-J'ai commencé récemment à [[Sources d'information|m'intéresser à l'évolution de l'industrie musicale]]. 
+J'ai commencé récemment à [[Sources d'information sur l'industrie de la musique|m'intéresser à l'évolution de l'industrie musicale]]. 
 
 Ma situation privilégiée rends possible pour moi de créer à ma guise. Je suis entouré de musiciens formidables qui auraient encore plus à contribuer s'ils pouvaient se libérer des contraintes que les paramètres actuels de l'industrie leurs imposent. Je les vois se démener pour vivre de leur art en tentant de faire un minimum de compromis. 
 
