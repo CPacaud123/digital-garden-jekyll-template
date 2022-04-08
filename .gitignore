@@ -16,3 +16,7 @@ _includes/notes_graph.json
 
 # Staging area
 _notes/_staging/
+
+# ruby
+.bundle
+vendor
