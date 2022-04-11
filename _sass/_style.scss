@@ -1,15 +1,3 @@
-/* v1 colors
-$scrollbarBG: #151515;
-$thumbBG: #6C717D;
-$color-primary: #D7D9DD;
-$color-background: #151515;
-$color-text: #B0B3BA;
-$color-subtext: #6C717D;
-$color-border: #6C717D;
-$color-box-background: #202020;
-*/
-
-/* v2 colors */
 $scrollbarBG: #000000;
 $thumbBG: #6C717D;
 $color-primary: white;
@@ -21,9 +9,7 @@ $color-border: #6C717D;
 $color-box-background: #202020;
 
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
 
 // cpacaud: scrollbar from https://css-tricks.com/the-current-state-of-styling-scrollbars/#an-updated-version-of-a-fairly-consistently-styled-scrollbar-across-firefox-safari-chrome
