@@ -31,7 +31,6 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-feed # feed generator plugin
 
 sass:
   sass_dir:          _sass
