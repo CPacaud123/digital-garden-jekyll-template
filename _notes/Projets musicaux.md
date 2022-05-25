@@ -14,6 +14,8 @@ Enregistrements :
 <br>2020 : Gabriel Cyr - [Spectrum Exploration I](https://gabrielcyrguitarist.bandcamp.com/album/spectrum-exploration-i) - basse sur "Dark Times"
 <br>2021 : Overbud - [Overbud](https://overbud.bandcamp.com/album/overbud) - basse, guitare
 <br>2021 : Christian Pacaud - [2021](https://christianpacaud.bandcamp.com/music) - musique, basse, guitare
+<br>2021 : Austin Wintory - [Mocha Petal / CSGO Tacticians music kit](https://www.youtube.com/watch?v=mwHTecB638E) - basse sur "Main Menu"
+<br>2022 : Olivier Deriviere - [Vampire The Masquerade : Swansong](https://olivierderiviere.bandcamp.com/album/vampire-the-masquerade-swansong) - basse sur "[The Night Has Come](https://www.youtube.com/watch?v=T31oetskHQs)"
 <br>2022 : [Alex Donati](https://alexdonati.bandcamp.com/) - basse, arrangements sur "Juste en Attendant"
 <br>2022 : Fred Murray - [La Rivière du Temps](https://fredmurray.bandcamp.com/album/la-rivi-re-du-temps) - basse
 <br>(à venir) : Lie of Eris - basse
