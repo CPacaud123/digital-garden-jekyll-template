@@ -10,6 +10,7 @@ Enregistrements :
 <br>2017 : BHATT - [Suicide eP](https://bhattqc.bandcamp.com/album/suicide-ep) - enregistrement, mixage
 <br>2018 : Humanoid - [Door](https://humanoid3.bandcamp.com/album/door) - basse
 <br>2018 : BHATT - [BHATT](https://bhattqc.bandcamp.com/album/bhatt) - enregistrement, mixage
+<br>2018 : Jeff Ball - [Timespinner](https://jeffball.bandcamp.com/album/timespinner-original-game-soundtrack) - basse
 <br>2019 : BHATT - [II](https://bhattqc.bandcamp.com/album/ii) - guitare, enregistrement, mixage
 <br>2020 : Gabriel Cyr - [Spectrum Exploration I](https://gabrielcyrguitarist.bandcamp.com/album/spectrum-exploration-i) - basse sur "Dark Times"
 <br>2021 : Overbud - [Overbud](https://overbud.bandcamp.com/album/overbud) - basse, guitare
