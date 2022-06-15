@@ -1,5 +1,5 @@
 ---
-title: Projets musicaux
+title: Liste des projets musicaux
 ---
 Enregistrements :
 <br>2003 : MAG Project - MAG Project - basse sur "Storm"
