@@ -19,11 +19,11 @@ Enregistrements :
 <br>2022 : Olivier Deriviere - [Vampire The Masquerade : Swansong](https://olivierderiviere.bandcamp.com/album/vampire-the-masquerade-swansong) - basse sur "[The Night Has Come](https://www.youtube.com/watch?v=T31oetskHQs)"
 <br>2022 : [Alex Donati](https://alexdonati.bandcamp.com/) - basse, arrangements sur "Juste en Attendant"
 <br>2022 : Fred Murray - [La Rivière du Temps](https://fredmurray.bandcamp.com/album/la-rivi-re-du-temps) - basse
+<br>2022 : Contemplator - [Morphose](https://contemplator.bandcamp.com/album/morphose) - musique, basse, guitare
+<br>2022 : Aeternam - [Heir of the Rising Sun](https://aeternam.bandcamp.com/album/heir-of-the-rising-sun) - basse, arrangements
 <br>(à venir) : Lie of Eris - basse
-<br>(à venir) : Contemplator - Morphose - musique, basse, guitare
 <br>(à venir) : Humanoid - [Miroir D'Humanité](https://humanoid3.bandcamp.com/album/miroir-dhumanit) - basse
 <br>(à venir) : Hothouyavin - basse, mixage
-<br>(à venir) : Aeternam - basse, arrangements
 <br>(à venir) : From Dying Suns - basse
 <br><br>Live : 
 <br>2003 - 2005 ? : United Dreams - hommage à Dream Theater - basse
@@ -36,3 +36,4 @@ Enregistrements :
 <br>2015 - 2016 ? : Aeroplanes - hommage à Red Hot Chili Peppers - basse
 <br>2017 - 2019 : Prog Story - hommage au rock progressif des années 70 - basse
 <br>2018 - auj'h : BHATT - guitare
+<br>2022 - auj'h : From Dying Suns - basse
