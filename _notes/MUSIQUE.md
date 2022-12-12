@@ -1,5 +1,5 @@
 ---
-title: -==MUSIQUE==-
+title: -=MUSIQUE=-
 ---
 
 # Mes projets musicaux
